@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/J3.L.P0001_OnlineQuiz">
+  <Environment name="dbName" type="java.lang.String" value="online_quiz_2"/>
+  <Environment name="username" type="java.lang.String" value="sa"/>
+  <Environment name="password" type="java.lang.String" value="12345678"/>
+  <Environment name="serverName" type="java.lang.String" value="localhost"/>
+  <Environment name="portNumber" type="java.lang.String" value="1433"/>
+</Context>

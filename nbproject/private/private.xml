@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="JavaWeb">
+            <file>file:/E:/FPTU/Lab%20Web/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/src/java/controller/LoginController.java</file>
+            <file>file:/E:/FPTU/Lab%20Web/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/src/java/dao/impl/QuestionDAOImpl.java</file>
+            <file>file:/E:/FPTU/Lab%20Web/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/src/java/controller/RegisterController.java</file>
+            <file>file:/E:/FPTU/Lab%20Web/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/src/java/controller/ManageQuizController.java</file>
+            <file>file:/E:/FPTU/Lab%20Web/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/src/java/controller/LogoutController.java</file>
+            <file>file:/E:/FPTU/Lab%20Web/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/src/java/controller/MakeQuizController.java</file>
+            <file>file:/E:/FPTU/Lab%20Web/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/src/java/dao/QuestionDAO.java</file>
+            <file>file:/E:/FPTU/Lab%20Web/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/src/java/controller/TakeQuizController.java</file>
+        </group>
+        <group>
+            <file>file:/D:/Ky5/1_Lab/code/NewFolder/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/src/java/controller/MakeQuizController.java</file>
+            <file>file:/D:/Ky5/1_Lab/code/NewFolder/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/src/java/controller/ManageQuizController.java</file>
+            <file>file:/D:/Ky5/1_Lab/code/NewFolder/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/src/java/filter/RoleFilter.java</file>
+            <file>file:/D:/Ky5/1_Lab/code/NewFolder/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/src/java/controller/LoginController.java</file>
+            <file>file:/D:/Ky5/1_Lab/code/NewFolder/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/src/java/dao/impl/QuestionDAOImpl.java</file>
+            <file>file:/D:/Ky5/1_Lab/code/NewFolder/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/J3.L.P0001_OnlineQuiz/src/java/controller/TakeQuizController.java</file>
+        </group>
+    </open-files>
+</project-private>
